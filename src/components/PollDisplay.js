@@ -54,9 +54,9 @@ class PollDisplay extends Component {
   render() {
     return (
       <>
-        <nav>
+        <nav className="primary-nav">
           <button>User 1</button>
-          <button>User 2</button>
+          <button>User </button>
         </nav>
 
         <h1>Polling App</h1>
